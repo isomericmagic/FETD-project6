@@ -27,7 +27,7 @@ const phrases = [
 'Jump The Gun',
 'Keep Your Eyes Peeled',
 'Let The Cat Out Of The Bag',
-'Like Father, Like Son',
+'Like Father Like Son',
 'Needle In a Haystack',
 'Out Of Left Field',
 'Playing For Keeps',
