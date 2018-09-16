@@ -60,6 +60,8 @@ function addPhraseToDisplay(arr) {
     newLine.textContent = arr[i];
     if (arr[i] !== ' ') {
       newLine.className = 'letter';	
+    } else if (arr[i] === ' ') {
+    	newLine.className = 'space';
     };
     phraseList.appendChild(newLine);
   }
